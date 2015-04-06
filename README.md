@@ -11,7 +11,6 @@ eg. PredictHOG('weghits.txt', 'data/test/neg_6370', 'parameters.txt');
 3)Extra: to predict multiple images in a folder, run Predict
 
 eg. Predict('weights.txt', 'data', 'parameters.txt');
------------------------------------------
 
 IDEAL SET UP
 
@@ -21,7 +20,6 @@ IDEAL SET UP
 
 3)testing images: \data\test\
 
-----------------------------------------
 PARAMETERS FILE
 
 1	Image Resize Height
@@ -39,9 +37,6 @@ PARAMETERS FILE
 must be comma separated values 
 
 e.g.: 128, 64, 9, 9, 16, 5, 5, 3, 3, 10000, 0.04
-
-
-----------------------------------
 
 result.txt format:
 
